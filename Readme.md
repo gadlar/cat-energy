@@ -1,1 +1,1 @@
-# Заготовка под типовой проект
+# Supermarket for cats "Cat Energy"
